@@ -6,4 +6,4 @@
  * ***Gmail***
 
 ! [My New Picture] 
-![ed1fef_826cc321bc824bb79b45e6a6756d1f26~mv2_d_2500_1489_s_2-1](https://github.com/WilliamBlacksmith/WilliamBlacksmith.github.io/assets/166405777/4153a500-925e-405b-84ad-7e1765c9a092)
+![Screenshot_20240208_202627_Gallery](https://github.com/WilliamBlacksmith/WilliamBlacksmith.github.io/assets/166405777/cf4f7b47-4169-4493-9cbb-09c324bc37bf)
