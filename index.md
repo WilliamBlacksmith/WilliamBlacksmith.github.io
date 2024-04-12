@@ -1,4 +1,5 @@
 ### William Blacksmith Sr.
+![699306380470 (1)](https://github.com/WilliamBlacksmith/WilliamBlacksmith.github.io/assets/166405777/d8829ca9-c5a9-482d-89df-4876b1c8f312)
  I am an ***IT Specialist*** working with the ***Rosebud Sioux Tribe*** ***Climate Center***. I have an associates degree in computer technology, with 12 years of hands on experience.
 
 
