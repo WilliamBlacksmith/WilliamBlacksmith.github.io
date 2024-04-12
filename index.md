@@ -12,4 +12,5 @@ I am an ***IT Specialist*** working with the ***Rosebud Sioux Tribe*** ***Climat
  * ***Gmail***
 
 
-![Screenshot_20240208_202627_Gallery (1)](https://github.com/WilliamBlacksmith/WilliamBlacksmith.github.io/assets/166405777/fff169dd-b676-4c8b-a85a-0a8c8db85a7a)
+<!-- HTML -->
+<img style="float: right;" src="https://github.com/WilliamBlacksmith/WilliamBlacksmith.github.io/assets/166405777/fff169dd-b676-4c8b-a85a-0a8c8db85a7a" width="125" height="125">
