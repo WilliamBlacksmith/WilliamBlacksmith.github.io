@@ -1,2 +1,2 @@
-# [William Blacksmith Sr.](WilliamBlacksmith.github.io)
+# WilliamBlacksmith.github.io
 Personal Portfolio
