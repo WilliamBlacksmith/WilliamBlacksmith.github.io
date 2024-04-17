@@ -4,6 +4,6 @@ I am an IT Specialist working with the Rosebud Sioux Tribe Climate Center. I hav
 
 
 <!-- HTML -->
-<img style="float: right;" src="https://github.com/WilliamBlacksmith/WilliamBlacksmith.github.io/assets/166405777/fff169dd-b676-4c8b-a85a-0a8c8db85a7a" width="125" height="125">
+<img style="float: left;" src="https://github.com/WilliamBlacksmith/WilliamBlacksmith.github.io/assets/166405777/fff169dd-b676-4c8b-a85a-0a8c8db85a7a" width="125" height="125">
 
 
