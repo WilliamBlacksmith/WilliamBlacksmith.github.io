@@ -1,6 +1,4 @@
-### William Blacksmith Sr.
-
-I am an IT Specialist working with the Rosebud Sioux Tribe Climate Center. I have an associates degree in computer technology, with 12 years of hands on experience.
+William Blacksmith Sr. is an IT Specialist working on the Rosebud Sioux Tribe Climate Center. He has an associates degree in computer technology from Sinte Gleska University, with 12 years of hands on experience in Networking, Security Systems, Telecommunications and Troubleshooting Windows, Mac and Linux OS systems. He is looking expand his knowledge in all areas of technology. 
 
 
 <!-- HTML -->
