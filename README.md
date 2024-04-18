@@ -1,2 +1,2 @@
-# William Blacksmith Sr.
+### William Blacksmith Sr.
 Personal Portfolio
