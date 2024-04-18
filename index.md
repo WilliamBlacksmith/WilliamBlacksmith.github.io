@@ -1,5 +1,5 @@
 <!-- HTML --> 
-<img style="float: center;" src="/assets/img/RST Flag.png" width="100" height="100">
+<img style="float: center;" src="/assets/img/RST Flag.png" width="150" height="150">
 
 
 #### Bio
@@ -8,4 +8,3 @@ William Blacksmith Sr. is an IT Specialist working on the Rosebud Sioux Tribe Cl
 #### Contact Information
 * [Work E-mail](Wblacksmith@rst-nsn.gov)
 * [Github Profile](WilliamBlacksmith.github.io)
-
