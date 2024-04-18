@@ -2,7 +2,7 @@
 
 #### Contact Information
 * [Work E-mail](Wblacksmith@rst-nsn.gov)
-* [Github Prfile](WilliamBlacksmith.github.io)
+* [Github Profile](WilliamBlacksmith.github.io)
 
 
 <!-- HTML -->
