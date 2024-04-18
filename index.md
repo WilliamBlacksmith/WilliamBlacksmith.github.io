@@ -1,4 +1,5 @@
-<img src="assets/img/RST Flag.png" align="center" width="150" height="150" />
+<!--- HTML --->
+<img align="center" width="150" height="150" src="/assets/img/RST Flag.png">
 
 
 # Bio
