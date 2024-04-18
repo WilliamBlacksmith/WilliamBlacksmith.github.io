@@ -1,5 +1,6 @@
-<img src="/assets/img/RST Flag.png" alt="RST Flag" width="200" align="center" />
-
+<p align="center" width="100%">
+    <img width="50%" src="/assets/img/RST Flag.png"> 
+</p>
 ---
 
 ### Bio
