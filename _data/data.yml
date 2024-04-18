@@ -15,23 +15,23 @@ sidebar:
     website: https://williamblacksmith.github.io/
     github: williamblacksmith
 
-        interests:
-          title: Interests
-          info:
-            - item: Basketball
-              link:
+interests:
+    title: Interests
+    info:
+        - item: Basketball
+          link:
     
-            - item: Chess
-              link:
+        - item: Chess
+          link:
           
-        languages:
-          title: Languages
-          info:
-            - idiom: English
-              level: Native 
+languages:
+    title: Languages
+    info:
+        - idiom: English
+          level: Native 
               
-            - idiom: Italian
-              level: Beginner
+        - idiom: Italian
+          level: Beginner
 
 education:
     title: Education
@@ -39,17 +39,17 @@ education:
       - degree: Associate's in Information Technology
         university: Sinte Glaska University 
         time: 2007 - 2009
-        details: |
+        details:
            Logic and computer design fundamentals, C++, Networking Fundamentals, Computer hardware troubleshooting, Software and OS Troubleshooting.
  
 certifications:
-      title: Certifications
+    title: Certifications
       list:
-        - name: Hubble Cabling Certification
-          start: 2014
-          end: 2015
-          organization: Hubbell Premise Wiring
-          credentialurl: https://www.hubbell.com/hubbellpremisewiring/en
+    - name: Hubble Cabling Certification
+        start: 2014
+        end: 2015
+        organization: Hubbell Premise Wiring
+        credentialurl: https://www.hubbell.com/hubbellpremisewiring/en
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
