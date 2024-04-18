@@ -15,23 +15,23 @@ sidebar:
     website: https://williamblacksmith.github.io/
     github: williamblacksmith
 
-    interests:
-      title: Interests
-      info:
-        - item: Basketball
-          link:
-
-        - item: Chess
-          link:
+        interests:
+          title: Interests
+          info:
+            - item: Basketball
+              link:
+    
+            - item: Chess
+              link:
           
-    languages:
-      title: Languages
-      info:
-        - idiom: English
-          level: Native 
-          
-        - idiom: Italian
-          level: Beginner
+        languages:
+          title: Languages
+          info:
+            - idiom: English
+              level: Native 
+              
+            - idiom: Italian
+              level: Beginner
 
 education:
     title: Education
