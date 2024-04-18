@@ -1,5 +1,4 @@
-<!--- HTML --->
-<img src="/assets/img/RST Flag.png" alt="RST Flag" width="150" align="right" />
+<img src="/assets/img/RST Flag.png" alt="RST Flag" width="200" align="center" />
 
 ---
 
