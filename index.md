@@ -1,5 +1,5 @@
 <!-- HTML --> 
-<img style="float: left;" src="/assets/img/RST Flag.png" width="125" height="125">
+<img style="float: center;" src="/assets/img/RST Flag.png">
 
 
 #### Bio
