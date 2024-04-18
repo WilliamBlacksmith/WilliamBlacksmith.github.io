@@ -1,5 +1,5 @@
-<!-- HTML -->
-# <img style="float: left;" src="/assets/img/WilliamBlacksmith.jpg" width="125" height="125">
+# <!-- HTML --> 
+<img style="float: left;" src="/assets/img/WilliamBlacksmith.jpg" width="125" height="125">
 
 
 #### Bio
