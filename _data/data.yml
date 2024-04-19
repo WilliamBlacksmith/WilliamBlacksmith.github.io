@@ -16,19 +16,31 @@ sidebar:
     github: williamblacksmith
       
     languages:
-        title: Languages
-        info:
-          - idiom: English
-            level: Native 
+      title: Languages
+      info:
+        - idiom: English
+          level: Native
+
+    interests:
+      title: Interests
+      info:
+        - item: Chess
+          link:
+
+        - item: Sports
+          link:
+
+        - item: Gaming
+          link:
     
 education:        
-        title: Education
-        info:
-          - degree: Associate's in Information Technology
-            university: Sinte Glaska University 
-            time: 2007-2009
-            details: |  
-                Logic and computer design fundamentals, C++, Networking Fundamentals, Computer hardware troubleshooting, Software and OS Troubleshooting.
+    title: Education
+    info:
+      - degree: Associate's in Information Technology
+        university: Sinte Glaska University 
+        time: 2007-2009
+        details: |  
+          Logic and computer design fundamentals, C++, Networking Fundamentals, Computer hardware troubleshooting, Software and OS Troubleshooting.
          
      certifications:
         title: Certifications
