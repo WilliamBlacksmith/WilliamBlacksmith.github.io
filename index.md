@@ -1,6 +1,13 @@
-<p align="center" width="100%">
-    <img width="50%" src="/assets/img/RST Flag.png"> 
+<p align="right" width="75%">
+    <img width="35%" src="/assets/img/RST Flag.png"> 
 </p>
+
+---
+
+<p align="right" width="75%">
+    <img width="35%" src="/assets/img/Treaty Logo.jpg"> 
+</p>
+
 ---
 
 ### Bio
