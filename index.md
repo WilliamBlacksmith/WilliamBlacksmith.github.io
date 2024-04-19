@@ -1,5 +1,7 @@
+<p align="right" width="75%">
 <img src="/assets/img/RST Flag.png">
 <img src="/assets/img/Treaty Logo.jpg">
+</p>
 
 ---
 
