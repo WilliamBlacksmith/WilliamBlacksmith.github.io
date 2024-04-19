@@ -8,7 +8,7 @@ sidebar:
     tagline: Sicangu Climate Center
     timezone: Central Time (GMT-5:00)
     location: Rosebud, Sd
-    avatar: william.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: #william.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: wblacksmith@rst-nsn.gov
