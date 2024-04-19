@@ -9,7 +9,7 @@ sidebar:
     timezone: Central Time (GMT-5:00)
     location: Rosebud, Sd
     avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    Profile Picture: profile.jpg
+    profile picture: profile.jpg
     
     # Sidebar links
     email: wblacksmith@rst-nsn.gov
