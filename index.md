@@ -1,8 +1,4 @@
-<img src="/assets/img/RST Flag.png" align="right" width="30%"> 
-
-<img src="/assets/img/Treaty Logo.jpg" align="left" width="20%"> 
-
----
+<img src="/assets/img/RST Flag.png" align="right" width="30%">  <img src="/assets/img/Treaty Logo.jpg" align="left" width="20%"> 
 
 #### Bio
 
