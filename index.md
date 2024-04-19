@@ -1,8 +1,14 @@
-<img src="/assets/img/RST Flag.png" align="right" width="30%">  <img src="/assets/img/Treaty Logo.jpg" align="left" width="20%"> 
+<p float="left">
+<img src="/assets/img/RST Flag.png" align="right" width="30%">  
+<p  float="right">
+<img src="/assets/img/Treaty Logo.jpg" align="left" width="20%"> 
+</p>
 
-#### Bio
+--- 
 
-William Blacksmith Sr. is an IT Specialist working on the Rosebud Sioux Tribe Climate Center. He has an associates degree in computer technology from Sinte Gleska University, with 12 years of hands on experience in Networking, Security Systems, Telecommunications and Troubleshooting Windows, Mac and Linux OS systems. He is looking to expand his knowledge in all areas of technology. 
+#### About me
+
+Im an IT Specialist with the Treaty Office for the Rosebud Sioux Tribe.  I will be working on our climate center project, along with another IT Specialist. Our main focus for this project is to gather Environmental Data and input the data of what we gathered into our Climate Center Dashboard.  Once the project is complete we will be training our surrounding tribes with their data input and how to use the dashboard. 
 
 ---
 
