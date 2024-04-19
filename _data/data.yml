@@ -20,24 +20,24 @@ sidebar:
         info:
           - idiom: English
             level: Native 
-
-education:
-    title: Education
-    info:
-      - degree: Associate's in Information Technology
-        university: Sinte Glaska University 
-        time: 2007-2009
-        details: |
-          Logic and computer design fundamentals, C++, Networking Fundamentals, Computer hardware troubleshooting, Software and OS Troubleshooting.
- 
- certifications:
-     title: Certifications
-     list:
-       - name: Hubble Cabling Certification
-         start: 2014
-         end: 2015
-         organization: Hubbell Premise Wiring
-         credentialurl: https://www.hubbell.com/hubbellpremisewiring/en
+    
+    education:
+        title: Education
+        info:
+          - degree: Associate's in Information Technology
+            university: Sinte Glaska University 
+            time: 2007-2009
+            details: |
+              Logic and computer design fundamentals, C++, Networking Fundamentals, Computer hardware troubleshooting, Software and OS Troubleshooting.
+         
+     certifications:
+         title: Certifications
+         list:
+           - name: Hubble Cabling Certification
+             start: 2014
+             end: 2015
+             organization: Hubbell Premise Wiring
+             credentialurl: https://www.hubbell.com/hubbellpremisewiring/en
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
