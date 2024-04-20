@@ -30,7 +30,11 @@ sidebar:
 
         - item: Gaming
           link:
-    
+
+about me:
+    title: about me
+    summary: Welcome to my to profile.  My name is William Blacksmith Sr. and I am an IT Specialist working for the Treaty Office located on the Rosebud Sioux Tribe reservation.  
+
 education:        
       title: Education
       info:
