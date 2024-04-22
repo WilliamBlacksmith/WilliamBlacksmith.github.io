@@ -1,5 +1,5 @@
 <div>
-    <tabel>
+    <table>
         <td>
             <img src="assest/rst_flag.png" width="150"/>
         </td>
