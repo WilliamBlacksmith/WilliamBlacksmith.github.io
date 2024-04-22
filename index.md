@@ -1,6 +1,6 @@
 <div>
     <td>
-        <img src="assest/rst_flag.png" width="150"/>
+        <img src="assest/rst_flag.png" width="50"/>
     </td>
     <td>
         <img src="assets/treaty_logo.png" width="100"/>
