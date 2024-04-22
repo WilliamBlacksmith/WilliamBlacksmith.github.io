@@ -4,7 +4,7 @@
         <img src="assest/images/rst_flag.png"/>
     </td>
     <td>
-        <img src=""/>
+        <img src="assets/rst_flag.png" width="150"/>
     </td>
   </tr>
 </table>
