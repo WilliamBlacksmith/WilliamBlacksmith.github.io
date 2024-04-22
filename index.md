@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td>
-        <img src="assest/treaty_logo" width="150"/>
+        <img src="assest/treaty_logo.png"/>
     </td>
     <td>
         <img src="assets/rst_flag.png" width="150"/>
