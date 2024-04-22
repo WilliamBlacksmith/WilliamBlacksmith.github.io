@@ -1,13 +1,11 @@
-<table>
-  <tr>
+<div>
     <td>
-        <img src="assest/treaty_logo.png"/>
+        <img src="assest/rst_flag.png" width="100"/>
     </td>
     <td>
-        <img src="assets/rst_flag.png" width="150"/>
+        <img src="assets/treaty_logo.png" width="150"/>
     </td>
-  </tr>
-</table>
+</div>
 
 
 
