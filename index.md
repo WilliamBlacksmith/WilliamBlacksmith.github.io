@@ -1,7 +1,7 @@
 <div>
     <table>
-        <td>
-            <img src="assest/rst_flag.png" width="150"/>
+        <td> 
+            <img src="./assets/rst_flag.png" width="150"/>
         </td>
         <td>
             <img src="assets/treaty_logo.png" width="100"/>
