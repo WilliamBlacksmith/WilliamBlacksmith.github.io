@@ -1,15 +1,13 @@
 <div>
     <table>
         <td> 
-            <img src="./assets/rst_flag.png" width="150"/>
+            <img src="./assets/rst_flag.png" width="100"/>
         </td>
         <td>
             <img src="assets/treaty_logo.png" width="100"/>
         </td>
     </table>
 </div>
-
-
 
 ---
 
