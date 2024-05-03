@@ -1,12 +1,10 @@
 <div>
-    <table>
         <td> 
-            <img src="./assets/rst_flag.png" width="350"/>
+            <img src="./assets/rst_flag.png" align="right" width="350"/>
         </td>
         <td>
-            <img src="assets/treaty_logo.png" width="275"/>
+            <img src="./assets/SLTC_Logo.png" align="centered", width="275"/>
         </td>
-    </table>
 </div>
 
 ---
