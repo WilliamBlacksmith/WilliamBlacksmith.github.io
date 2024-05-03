@@ -24,4 +24,4 @@ Before working with the treaty office.  I spend 12 years working with the Rosebu
 ---
 
 ### Rosebud Reservation, South Dakota
-<embed type="text/html" src="assets/rosebud.html" width="2000" height="2000">
+<embed type="text/html" src="assets/rosebud_map.html" width="2000" height="2000">
