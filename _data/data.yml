@@ -28,17 +28,13 @@ sidebar:
         - item: Sports
           link:
 
-        - item: Gaming
-          link:
-
-education:        
-      title: Education
-      info:
-        - degree: Associate in Information Technology
-          university: Sinte Glaska University 
-          time: 2007-2009
-          details: |  
-            Logic and computer design fundamentals, C++, Networking Fundamentals, Computer hardware troubleshooting, Software and OS Troubleshooting.
+    education:        
+       title: Education
+       info:
+         - degree: Associate in Information Technology
+           university: Sinte Glaska University 
+           time: 2007-2009
+           details: | Logic and computer design fundamentals, C++, Networking Fundamentals, Computer hardware troubleshooting, Software and OS Troubleshooting.
              
 certifications:   
    title: Certifications
