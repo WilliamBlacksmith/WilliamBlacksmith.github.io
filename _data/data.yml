@@ -9,11 +9,11 @@ sidebar:
     avatar: william.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: wblacksmith@rst-nsn.gov
-    website: https://williamblacksmith.github.io/
-    github: williamblacksmith
+    contact info:
+      email: wblacksmith@rst-nsn.gov
+      website: https://williamblacksmith.github.io/
       
-    languages:
+    
       title: Languages
       info:
         - idiom: English
@@ -36,35 +36,5 @@ sidebar:
            time: 2007-2009
            details: | Logic and computer design fundamentals, C++, Networking Fundamentals, Computer hardware troubleshooting, Software and OS Troubleshooting.
              
-certifications:   
-   title: Certifications
-   list:
-     - name: Hubble Cabling Certification
-       start: 2014
-       end: 2015
-       organization: Hubbell Premise Wiring
-       credentialurl: https://www.hubbell.com/hubbellpremisewiring/en
-
-skills:
-    title: 
-    toolset:
-      - name: 
-        level: 
-
-      - name: 
-        level:
-
-      - name: 
-        level:
-
-      - name: 
-        level:
-
-      - name: 
-        level:
-
-      - name: 
-        level: 
-
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
