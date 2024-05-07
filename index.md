@@ -3,7 +3,7 @@
             <img src="./assets/rst_flag.png" align="right" width="350"/>
         </td>
         <td>
-            <img src="./assets/SLTC_Logo.png" align="centered", width="275"/>
+            <img src="./assets/SLTC_Logo.png" align="centered" width="275"/>
         </td>
 </div>
 
