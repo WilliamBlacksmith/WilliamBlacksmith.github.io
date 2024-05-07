@@ -6,20 +6,24 @@
         <td>
             <img src="./assets/SLTC_Logo.png" align="right" width="275"/>
         </td>
+        <td>
+            <img src="./assets/1868 Teaty Map.jpg" align="centered" width="175"/>
+        </td>
      </table>
 </div>
 
 ---
 
-About me:
 
-Welcome to my to profile.  My name is William Blacksmith Sr. and I am an IT Specialist working for the Treaty Office located on the Rosebud Sioux Tribe reservation. 
-
----
-
-Background:
-
-Before working with the treaty office.  I spend 12 years working with the Rosebud Sioux Tribe  IT department.  I received my associates degree in Computer Technology at Sinte Glaska University.  In my 12 years working with our tribe, I worked as an IT tech on numeros projects that would help our tribe become more knowledgeable with technology as we move forward into the future of technologly.
+# Welcome to my to portfolio
+My name is William Blacksmith Sr. and I currently work for the Sicangu Treaty Office located in Rosebud, South Dakota.  I am an IT specialist in the early stages of developing our own Climate Center. I will be 
 
 ---
+
+## Background:
+
+I have always been fascinated with all ways we use technology. From networking, camera system to databases and the list goes on. So before I started working with the treaty office. I recieved my associate's degree in computer technology. From there I moved forward with my schooling but at that time the courses I needed for my second degree were limited in our area. Since then I spend 12 years working with the Rosebud Sioux Tribe IT department. In my 12 years working with our tribe, my goal has always been to help our people catch up with the rest of the world as we move into the future of technology.  
+
+### 
+
 
