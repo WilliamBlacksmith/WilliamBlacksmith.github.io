@@ -13,9 +13,9 @@
 </div>
 
 
-# Welcome to my to portfolio
+# Welcome
 
-My name is William Blacksmith Sr. and I currently work for the Sicangu Treaty Office located in Rosebud, South Dakota.  I am apart of a Sicangu Climate Center project that will bring alot of oppertunities to not only our tribe, but to the neighbouring tribes around us.  It the capacity to improve our plates, wildlife and rivers.  If you want to know more about the project that we are apart of. There's a link to our github page named [Sicangu Climate Center](https://github.com/Sicangu-Climate-Center)
+I am a IT Specialist that work's for the Sicangu Treaty Office located on the Rosenbud Sioux Tribe reservation South Dakota.  I am apart of a Sicangu Climate Center project that will bring alot of oppertunities to not only our tribe, but to the neighbouring tribes around us.  It has the capacity to improve our plates, wildlife and rivers.  If you want to know more about the project that we are apart of. There's a link to our github page in the contact info that is listed.
 
 ---
 
