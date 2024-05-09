@@ -15,7 +15,7 @@
 
 # Welcome
 
-I am a IT Specialist that work's for the Sicangu Treaty Office located on the Rosenbud Sioux Tribe reservation South Dakota.  I am apart of a Sicangu Climate Center project that will bring alot of oppertunities to not only our tribe, but to the neighbouring tribes around us.  It has the capacity to improve our plates, wildlife and rivers.  If you want to know more about the project that we are apart of.
+I am a IT Specialist that work's for the Sicangu Treaty Office located on the Rosenbud Sioux Tribe reservation South Dakota.  I am apart of a Sicangu Climate Center project that will bring alot of oppertunities to not only our tribe, but to the neighbouring tribes around us.  It has the capacity to improve our plates, wildlife and rivers.
 
 ---
 
